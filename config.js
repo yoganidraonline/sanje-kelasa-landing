@@ -1,0 +1,1 @@
+window.BOOK_CONFIG = {productId: 'sanje-kelasa-book', title: 'ಸಂಜೆ ಕೆಲಸ ಮುಗಿಯುತ್ತದೆ… ನಿಮ್ಮ ಮನಸ್ಸು?', price: 165, currency: 'INR', pixelId: '1091552028081790', ga4Id: 'G-8G8H1K6BTR', domain: 'https://sanjekelasa.yoganidraonline.com', videoUrl: 'https://www.youtube-nocookie.com/embed/uVU4V_-cLzk'};
