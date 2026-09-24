@@ -1508,4 +1508,6 @@ footer {
 
 .sample-paper{position:relative}.sample-paper.sideways img{position:absolute;width:133.333%;height:75%;max-width:none;left:50%;top:50%;transform:translate(-50%,-50%) rotate(-90deg);object-fit:contain}
 
+.book-lifestyle-section{background:#f8f5ef}.book-lifestyle-grid{display:grid;grid-template-columns:1fr 1.15fr 1fr;gap:28px;align-items:center}.book-lifestyle-grid figure{margin:0}.book-lifestyle-grid figure img{display:block;width:100%;border-radius:16px;box-shadow:0 12px 30px #101e361c}.book-lifestyle-copy{text-align:center}.book-lifestyle-copy h2{line-height:1.55}.book-lifestyle-copy p{color:var(--muted)}.text-link{display:inline-block;margin-top:8px;color:#8d6012;font-weight:700;text-decoration:none}.text-link:hover{text-decoration:underline}@media(max-width:900px){.book-lifestyle-grid{grid-template-columns:1fr 1fr}.book-lifestyle-copy{grid-column:1/-1;grid-row:1}}@media(max-width:520px){.book-lifestyle-grid{grid-template-columns:1fr}.book-lifestyle-copy{grid-column:auto;grid-row:auto}.book-lifestyle-grid figure{max-width:420px;margin:auto}}
+
 .sample-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.sample-paper{height:430px}@media(max-width:900px){.sample-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:520px){.sample-grid{grid-template-columns:1fr}.sample-paper{height:480px}}
